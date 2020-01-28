@@ -1,6 +1,9 @@
 ---
 date: 2019-07-10
 title: "Intro to R and Tidyverse workshop"
+tags:
+  - R
+  - ABCD
 ---
 
 * Slides for an introductory R and Tidyverse workshop I lead for undergraduates and graduate students working in our lab. We ran 4 workshops total:

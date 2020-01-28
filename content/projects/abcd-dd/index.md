@@ -1,6 +1,9 @@
 ---
 date: 2019-06-05
 title: "ABCD Data Dictionary"
+tags:
+  - R
+  - ABCD
 ---
 
 A searchable data dictionary and ABCD release notes all in one place. Much easier to navigate compared to NDA's data dictionary. 

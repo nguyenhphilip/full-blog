@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Phil in the Blank</title>
+    <link>/tags/research/</link>
+    <description>Recent content in Research on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020- Phil Nguyen</copyright>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poster: Differences in Cognition and BOLD Signal Related to Early Stages of Puberty</title>
+      <link>/projects/ncog-pub-rome/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/ncog-pub-rome/</guid>
+      <description>Poster I presented at OHBM 2019 in Rome - &amp;ldquo;Differences in Cognition and BOLD Signal Related to Early Stages of Puberty&amp;rdquo;
+Tools used for plots and analysis: R and Freesurfer</description>
+    </item>
+    
+  </channel>
+</rss>

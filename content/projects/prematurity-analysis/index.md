@@ -1,6 +1,9 @@
 ---
 date: 2019-08-05
 title: "ABCD Prematurity Analysis"
+tags:
+  - R
+  - ABCD
 ---
 
 Examining the relationship between prematurity, mental health, and neurocognition in ABCD. Ran some T-tests and created visualizations.

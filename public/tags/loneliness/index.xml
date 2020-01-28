@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>loneliness on Phil in the Blank</title>
+    <link>/tags/loneliness/</link>
+    <description>Recent content in loneliness on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020- Phil Nguyen</copyright>
+    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/loneliness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Loneliness</title>
+      <link>/posts/loneliness/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/loneliness/</guid>
+      <description>This essay is adopted from one I wrote awhile ago for a science and writing class.
+ All the lonely people
+Where do they all come from?
+All the lonely people
+Where do they all belong?
+–Eleanor Rigby, The Beatles
+ Three weeks before Christmas, Doris Rafferty, an elderly woman of 82, admits herself to the hospital with complaints of a flutter in her chest. The doctors proceed to examine her, but find nothing.</description>
+    </item>
+    
+  </channel>
+</rss>

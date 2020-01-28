@@ -1,0 +1,42 @@
+baseURL = "http://philintheblank.me/"
+
+languageCode = "en-us"
+title = "Phil in the Blank"
+theme = "paperesque"
+copyright = "© 2020- Phil Nguyen"
+# I can't remember if this is required for syntax highlighting or not.
+pygmentsUseClasses = true
+googleAnalytics = "UA-140178220-1"
+# Uncomment these lines for droplist / resource removal support! See the
+# README for more details
+
+# [outputs]
+# page = ["HTML", "droplist"]
+
+[params]
+# Turn this on if you want to disable margin notes everywhere!
+# disableMarginNotes = true
+	subtitle = "Musings on life and living."
+# Customise your home page menu here:
+
+[[params.menu]]
+  name = "Posts"
+  url = "posts/"
+
+[[params.menu]]
+  name = "Projects"
+  url = "projects/"
+
+[[params.menu]]
+  name = "Tags"
+  url = "tags/"
+
+# And your top-right menu links here.
+
+[[params.topmenu]]
+  name = "About"
+  url = "about/"
+
+[[params.topmenu]]
+  name = "El Camino de Santiago"
+  url = "tags/camino-de-santiago/"

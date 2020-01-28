@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on Phil in the Blank</title>
+    <link>/categories/books/</link>
+    <description>Recent content in books on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020- Phil Nguyen</copyright>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shoreless Seeds and Stardust</title>
+      <link>/posts/seeds-stardust/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/seeds-stardust/</guid>
+      <description>I ventured out onto the lake today, this time beyond the frozen crest that marks the boundary between bay and lake, contemplating the last line of Maria Popova’s Figuring: “What will survive of us are shoreless seeds and stardust.” My saunter figured into a sprint as the mountains came into view, and soon the voices behind me were no more than whispers. Minutes later I ran into a couple playing in the snow.</description>
+    </item>
+    
+    <item>
+      <title>Letters to a Young Scientist</title>
+      <link>/posts/letters-scientist/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/letters-scientist/</guid>
+      <description>Veteran biologist and teacher of science Edward Wilson lays out a few principles for the young scientist to keep in mind as he/she/they proceed in their career:
+ Put passion ahead of training. Feel out in any way you can what you most want to do in science, or technology, or some other science-related profession. Obey that passion as long as it lasts. Feed it with the knowledge the mind needs to grow.</description>
+    </item>
+    
+  </channel>
+</rss>

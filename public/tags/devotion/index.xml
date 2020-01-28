@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devotion on Phil in the Blank</title>
+    <link>/tags/devotion/</link>
+    <description>Recent content in devotion on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020- Phil Nguyen</copyright>
+    <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/devotion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Devotion</title>
+      <link>/posts/devotion/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/devotion/</guid>
+      <description>It’s the day I’m supposed to be camping in Joshua Tree, but I find myself driving up the coast instead, hunting for answers. Something is calling me north to Santa Barbara. It feels familiar, like a warm embrace from a distant friend, an aged habit that continues to linger, yet it remains entirely nameless. A ghost is whispering.
+I arrive, park in front of my old apartment complex, and shuffle up the steps to the second floor.</description>
+    </item>
+    
+  </channel>
+</rss>

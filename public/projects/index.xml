@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Phil in the Blank</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020- Phil Nguyen</copyright>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phil Nguyen&#39;s Resume</title>
+      <link>/resume/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Enlarge and download my resume below.
+This browser does not support PDFs. Please download the PDF to view it: Download PDF.</description>
+    </item>
+    
+    <item>
+      <title>ABCD Prematurity Analysis</title>
+      <link>/projects/prematurity-analysis/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/prematurity-analysis/</guid>
+      <description>Examining the relationship between prematurity, mental health, and neurocognition in ABCD. Ran some T-tests and created visualizations.
+This is an interactive HTML page using R Markdown for an analysis I did for my PI. Source code here; GIF demonstrating below.</description>
+    </item>
+    
+    <item>
+      <title>Intro to R and Tidyverse workshop</title>
+      <link>/projects/intro-r-workshop/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/intro-r-workshop/</guid>
+      <description> Slides for an introductory R and Tidyverse workshop I lead for undergraduates and graduate students working in our lab. We ran 4 workshops total:
+ Workshop 1 Workshop 2 Workshop 3   </description>
+    </item>
+    
+    <item>
+      <title>Poster: Differences in Cognition and BOLD Signal Related to Early Stages of Puberty</title>
+      <link>/projects/ncog-pub-rome/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/ncog-pub-rome/</guid>
+      <description>Poster I presented at OHBM 2019 in Rome - &amp;ldquo;Differences in Cognition and BOLD Signal Related to Early Stages of Puberty&amp;rdquo;
+Tools used for plots and analysis: R and Freesurfer</description>
+    </item>
+    
+    <item>
+      <title>ABCD Data Dictionary</title>
+      <link>/projects/abcd-dd/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/abcd-dd/</guid>
+      <description>A searchable data dictionary and ABCD release notes all in one place. Much easier to navigate compared to NDA&amp;rsquo;s data dictionary.
+Unfortunately I can&amp;rsquo;t show the app&amp;rsquo;s source code due to confidentiality, but this is a GIF demonstrating what it does.
+Built using R and Shiny. Data pulled from NDA website.</description>
+    </item>
+    
+    <item>
+      <title>ABCD Database Builder</title>
+      <link>/projects/abcd-db-builder/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/abcd-db-builder/</guid>
+      <description>ABCD Data Downloader: an app I built in Shiny to help ABCD Researchers download ABCD data sets (Unfortunately I can&amp;rsquo;t show the app due to confidentiality, but the source code is here.)</description>
+    </item>
+    
+  </channel>
+</rss>

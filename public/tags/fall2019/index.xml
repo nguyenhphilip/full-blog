@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fall2019 on Phil in the Blank</title>
+    <link>/tags/fall2019/</link>
+    <description>Recent content in fall2019 on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020- Phil Nguyen</copyright>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/fall2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fall 2019</title>
+      <link>/posts/fall-2019/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/fall-2019/</guid>
+      <description>I’m finally finished with the semester. Soon I’ll be heading home to see my parents, camp in Joshua Tree National Park, and soak in the California sunshine. The break is much needed, as is some perspective.
+A lazy list of notable things:
+ I applied to the Masters in Complex Systems and Data Science program at UVM. This was a long process, mostly because I desire the kind of work that involves making connections with others, deep conversation, and facilitating personal transformation, but also because I was riddled with fear and self-doubt.</description>
+    </item>
+    
+  </channel>
+</rss>

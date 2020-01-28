@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>relationships on Phil in the Blank</title>
+    <link>/tags/relationships/</link>
+    <description>Recent content in relationships on Phil in the Blank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020- Phil Nguyen</copyright>
+    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/relationships/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intensity</title>
+      <link>/posts/intensity/</link>
+      <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/intensity/</guid>
+      <description>Between every relationship we ever had, have, and will have, there exists a unique configuration of constellations that defines its being. For some it radiates and burns with the intensity of a sun. Let it grow and we risk hurting ourselves, hurting others, discovering truths that we aren&amp;rsquo;t yet ready to witness; yet left unkindled and we might just miss the very thing that gives life its color. Most of us tread cautiously.</description>
+    </item>
+    
+  </channel>
+</rss>

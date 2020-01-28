@@ -12,6 +12,7 @@ Here is a GIF demonstrating some of the app's functionality.
 
 You can select which spreadsheet(s) you want to download, specific variables from the spreadsheets, which visits to include, and what to name your file.
 
-![](abcd-db-build.gif)
+{{< figure src="abcd-db-build.gif"
+>}}
 
 Developed with R and Shiny.

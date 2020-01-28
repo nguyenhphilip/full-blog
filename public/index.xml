@@ -193,7 +193,10 @@ Later, when faced with the task of figuring what direction my life should go, sh
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/projects/abcd-db-builder/</guid>
-      <description>ABCD Data Downloader: an app I built in Shiny to help ABCD Researchers download ABCD data sets (Unfortunately I can&amp;rsquo;t show the app due to confidentiality, but the source code is here.)</description>
+      <description>ABCD Data Downloader: an app I built in Shiny to help ABCD Researchers download ABCD data sets (Unfortunately I can&amp;rsquo;t show the app due to confidentiality, but the source code is here.)
+Here is a GIF demonstrating some of the app&amp;rsquo;s functionality.
+You can select which spreadsheet(s) you want to download, specific variables from the spreadsheets, which visits to include, and what to name your file.
+Developed with R and Shiny.</description>
     </item>
     
     <item>

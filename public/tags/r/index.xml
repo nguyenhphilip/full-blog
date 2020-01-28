@@ -19,7 +19,8 @@
       
       <guid>/projects/prematurity-analysis/</guid>
       <description>Examining the relationship between prematurity, mental health, and neurocognition in ABCD. Ran some T-tests and created visualizations.
-This is an interactive HTML page using R Markdown for an analysis I did for my PI. Source code here; GIF demonstrating below.</description>
+This is an interactive HTML page using R Markdown for an analysis I did for my PI. Source code here; GIF demonstrating below.
+  </description>
     </item>
     
     <item>
@@ -40,7 +41,7 @@ This is an interactive HTML page using R Markdown for an analysis I did for my P
       <guid>/projects/abcd-dd/</guid>
       <description>A searchable data dictionary and ABCD release notes all in one place. Much easier to navigate compared to NDA&amp;rsquo;s data dictionary.
 Unfortunately I can&amp;rsquo;t show the app&amp;rsquo;s source code due to confidentiality, but this is a GIF demonstrating what it does.
-Built using R and Shiny. Data pulled from NDA website.</description>
+  Built using R and Shiny. Data pulled from NDA website.</description>
     </item>
     
     <item>

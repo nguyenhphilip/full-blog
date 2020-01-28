@@ -10,6 +10,8 @@ A searchable data dictionary and ABCD release notes all in one place. Much easie
 
 Unfortunately I can't show the app's source code due to confidentiality, but this is a GIF demonstrating what it does.
 
-![GIF of data dictionary](data-dict.gif)
+
+{{< figure src="data-dict.gif"
+>}}
 
 Built using R and Shiny. Data pulled from [NDA website](https://nda.nih.gov/).

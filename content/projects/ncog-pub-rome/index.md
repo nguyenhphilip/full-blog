@@ -1,6 +1,6 @@
 ---
 date: 2019-06-25
-title: "Poster: Differences in Cognition and BOLD Signal Related to Early Stages of Puberty"
+title: "Differences in Cognition and BOLD Signal Related to Early Stages of Puberty"
 tags:
   - Research
   - ABCD

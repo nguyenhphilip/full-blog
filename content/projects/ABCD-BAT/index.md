@@ -6,7 +6,7 @@ tags:
   - ABCD
 ---
 
-This is the abstract I submitted to OHBM 2020 for the ABCD Brain Analysis Tool. The GUI was built under the guidnace of the great Bader Chaarani. We thought about naming it something punny after Bader - i.e. The ABCD BAD Tool - but we couldn't think of anything appropriate for submission.
+This is the abstract I submitted to OHBM 2020 for the ABCD Brain Analysis Tool. The GUI was built under the guidance of the great Bader Chaarani. We thought about naming it something punny after Bader - i.e. The ABCD BAD Tool - but we couldn't think of anything appropriate for submission.
 
 Anyways, here's the abstract:
 

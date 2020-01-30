@@ -15,11 +15,13 @@ The most popular route is the Camino Frances. It begins at Saint-Jean-Pied-de-Po
 
 <br>
 
-The first challenge of the Camino is actually getting on the Camino. Since my starting point was Saint-Jean, I needed to take a flight from Charles de Gaulle Airport to Biarritz –– a small city in Southwestern France –– and from Biarritz a bus to the nearby city of Bayonne, and from Bayonne another bus to Saint-Jean. 
+The first challenge of the Camino is actually getting on the Camino. Since my starting point was Saint-Jean, I had to take a flight from Charles de Gaulle Airport to Biarritz –– a small city in Southwestern France –– and from Biarritz a bus to the nearby city of Bayonne, and from Bayonne another bus to Saint-Jean. 
 
 I made my first two friends while waiting in line to board the plane in Charles de Gaulle airport. There was a tap on my shoulder, and I turned around to meet Jim and Kathy, a genial, retired couple from Truckee, California. They believed that life was too short to be lived at the wayside. Retirement and old age should enable one’s life, they said, not inhibit it. So they decided to walk the Camino. 
 
-Once we were in Biarritz, we had to catch a bus to Bayonne. Jim and Kathy said it would cost one euro to board. Unfortunately, I didn’t have any euros yet, and a currency exchange was nowhere to be found. I returned to the bus stop, and Jim noticed my concerned expression. I told him I had no euros. He laughed in response and handed me one. I was surprised by his casual generosity and thanked him. I looked at Jim and Kathy and smiled. Their sharp blue eyes radiated with youth and sincerity. It seemed as if the Camino was conspiring to make the journey possible, as if I were integral to the writing of some larger story.
+Once we were in Biarritz, we had to catch a bus to Bayonne. Jim and Kathy told me it would cost one euro to board. Unfortunately I didn’t have any euros yet, and a currency exchange was nowhere to be found. I returned to the bus stop, and Jim caught my concerned expression. I told him I had no euros. He laughed in response and handed me one. I was surprised by his casual generosity and thanked him. Jim and Kathy radiated with youth and sincerity. 
+
+It seemed as if the Camino was conspiring to make the journey possible, as if I were integral to the writing of some larger story.
 
 ![](bus.jpeg)
 
@@ -27,13 +29,13 @@ I met my second pair of friends, Franca and Matilde, the dynamic 18-year-old Ger
 
 “Hallo! Do you mind watching our stuff while we use the toilet?” Matilde asked.
 
-“Yeah! Of course,” I replied. But toilet? Was this some form of European vernacular for bathroom? As it turns out, it was.
+“Yeah! Of course,” I replied. But toilet? Was this some form of European vernacular for bathroom? As it turned out, it was.
 
 The bus finally arrived and we were on our way to Saint-Jean. I sat in the back of the bus where I had a panoramic view of the Pyrenees mountains. The sun-bathed ridges pierced the clear blue skies, reminding me of my many hikes in the White Mountains of New Hampshire. The shadows of leaves formed, disappeared, and reemerged in rapid oscillations on my body as we drove through the valley, a simple play of light that delighted my eye.
 
-I directed my attention back into the bus and took notice of the numerous people before me. Matilde and Franca were sitting near the front next to a tall, lanky Texan named Stefan. I then turned my gaze toward Jim and Cathy. Jim was resisting Cathy’s attempts to straddle him. He looked somewhat embarrassed, but I knew he was reveling in the moment. Their eyes spoke of a timeless love.
+I directed my attention back into the bus and took notice of the numerous people before me. Matilde and Franca were sitting near the front next to a tall, lanky Texan who I later learned was Stefan. I then turned my gaze toward Jim and Cathy. Jim was resisting Cathy’s attempts to straddle him. He looked somewhat embarrassed, but I knew he was reveling in the moment. Their eyes spoke of a timeless love.
 
-After an hour or so we arrived in Saint-Jean-Pied-de-Port, the official starting point of the Camino Frances. In the near distance stood the Pyrenees, the grand guardians of the city, and on the other side rested Spain.
+After an hour or so we arrived in Saint-Jean-Pied-de-Port, the official starting point of the Camino Frances. In the near distance stood the Pyrenees, the grand guardians of the city, and on the other side was Spain.
 
 
 

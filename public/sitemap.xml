@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -10,7 +10,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2020-01-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -21,36 +20,21 @@
   <url>
     <loc>/posts/</loc>
     <lastmod>2020-01-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/relationships/</loc>
     <lastmod>2020-01-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/resume/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -61,19 +45,16 @@
   <url>
     <loc>/tags/devotion/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/home/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/musings/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -84,17 +65,20 @@
   <url>
     <loc>/tags/loneliness/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/abcd/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/projects/abcd-bat/</loc>
+    <lastmod>2019-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/adulthood/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -106,19 +90,16 @@
   <url>
     <loc>/tags/matlab/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/adulthood/</loc>
+    <loc>/projects/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/reflections/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -129,7 +110,6 @@
   <url>
     <loc>/tags/fall2019/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -140,7 +120,6 @@
   <url>
     <loc>/tags/r/</loc>
     <lastmod>2019-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -156,7 +135,6 @@
   <url>
     <loc>/tags/research/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -167,25 +145,21 @@
   <url>
     <loc>/categories/science/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/science/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/travel/</loc>
-    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/travel/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/travel/</loc>
+    <lastmod>2019-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -196,13 +170,11 @@
   <url>
     <loc>/tags/meditation/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/notes/</loc>
     <lastmod>2019-06-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -211,37 +183,33 @@
   </url>
   
   <url>
+    <loc>/categories/perspective/</loc>
+    <lastmod>2019-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/bluedot/</loc>
     <lastmod>2019-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/perspective/</loc>
-    <lastmod>2019-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/seeds-stardust/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/books/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/brainpickings/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/sentiments/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/seeds-stardust/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -267,7 +235,6 @@
   <url>
     <loc>/categories/notes/</loc>
     <lastmod>2018-08-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -276,14 +243,13 @@
   </url>
   
   <url>
-    <loc>/posts/winter/</loc>
+    <loc>/categories/poetic/</loc>
     <lastmod>2018-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/poetic/</loc>
+    <loc>/posts/winter/</loc>
     <lastmod>2018-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -309,13 +275,11 @@
   <url>
     <loc>/categories/camino-de-santiago/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/camino-de-santiago/</loc>
     <lastmod>2017-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

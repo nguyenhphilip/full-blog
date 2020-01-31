@@ -17,6 +17,8 @@ Musings on Life and Living. Sometimes work is involved.
 _Last updated: 1/27/2020_
 ## Longer Version
 
+Click [here](../projects/resume/resume.pdf) for my resume.
+
 Currently I help run the [ABCD Study](https://abcdstudy.org) in Vermont, the largest and longest longitudinal study of adolescent brain development in the U.S. I run subjects, schedule visits, and manage our part-time staff. I am also, after a brief dive into [R](https://www.r-project.org/) and [the Tidyverse](https://www.tidyverse.org/packages/) (thank you professor Weaver!), the resident data wrangler, amateur Shiny developer, and rookie researcher in training. 
 
 Some kind words related to R wizardry:
